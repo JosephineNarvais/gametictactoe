@@ -1,7 +1,7 @@
 # gametictactoe
 Project Tic Tac Toe
 
-Description of Tic Tac Toe tutorial on youtube made biy JavaScript Academy. A fun way of using three types of code for a friendly game of Tic Tac Toe.
+Description of Tic Tac Toe tutorial on youtube made by JavaScript Academy. A fun way of using three types of code for a friendly game of Tic Tac Toe.
 
 Technolgoies used is HTML, CSS, JAVASCRIPT
 
