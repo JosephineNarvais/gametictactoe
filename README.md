@@ -1,7 +1,5 @@
 # gametictactoe
-Tic Tac Toe
-
-Codecademy Film-Finder
+Project Tic Tac Toe
 
 Description Tic Tac Toe tutorial on youtube made biy JavaScript Academy. A fun way of using three types of code for a friendly game of Tic Tac Toe.
 
